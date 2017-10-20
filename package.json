@@ -1,0 +1,20 @@
+{
+  "name": "socket_app",
+  "version": "1.0.0",
+  "description": "Tutorial Socket App.",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.16.2",
+    "socket.io": "^1.4.8"
+  },
+  "engines": {
+    "node": "6.11.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node ./app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "akshitgrover",
+  "license": "ISC"
+}
